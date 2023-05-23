@@ -4,12 +4,12 @@ I'm a Data Scientist deeply fascinated by the endless possibilities that data br
 
 In my free time, I am developing open source projects that aim to simplify and enhance various aspects of data science.
 
-
 🤝 Please support the projects by giving them a star ⭐
 
 ## Highlighted Projects
 
 ### Falcon ML
+
 <div align="center">
   <a href="https://github.com/OKUA1/falcon">
     <picture>
@@ -19,12 +19,13 @@ In my free time, I am developing open source projects that aim to simplify and e
 </picture>
 </a>
 </div>
-  <sub>An AutoML library designed to streamline the training and deployment of machine learning models, including the ability to train the entire machine learning pipeline using a single line of code, and native integration with ONNX for versatile deployment across different environments.</sub><br />
-  <sub>Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a></sub>
+ An AutoML library designed to streamline the training and deployment of machine learning models, including the ability to train the entire machine learning pipeline using a single line of code, and native integration with ONNX for versatile deployment across different environments.<br />
+Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a>
 </div>
 <br />
 
 ### Scikit-LLM
+
 <div align="center">
   <a href="https://github.com/iryna-kondr/scikit-llm">
     <picture>
@@ -34,6 +35,6 @@ In my free time, I am developing open source projects that aim to simplify and e
 </picture>
 </a>
 </div>
-  <sub>A collection of scikit-learn compatible wrappers around large language models, allowing to treat them as regular sklearn estimators.</sub><br />
-  <sub>Project repository: <a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a></sub>
+  A collection of scikit-learn compatible wrappers around large language models, allowing to treat them as regular sklearn estimators.<br />
+Project repository: <a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a>
 </div>
