@@ -1,16 +1,39 @@
-### Hi there 👋
+## Hi, I'm Oleh! 👋
 
-<!--
-**OKUA1/OKUA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist deeply fascinated by the endless possibilities that data brings to our world.
 
-Here are some ideas to get you started:
+In my free time, I am developing open source projects that aim to simplify and enhance various aspects of data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤝 Please support the projects by giving them a star ⭐
+
+## Highlighted Projects
+
+### Falcon ML
+<div align="center">
+  <a href="https://github.com/OKUA1/falcon">
+    <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_black.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_white.svg">
+  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_black.svg" height = "125">
+</picture>
+</a>
+</div>
+  <sub>An AutoML library designed to streamline the training and deployment of machine learning models, including the ability to train the entire machine learning pipeline using a single line of code, and native integration with ONNX for versatile deployment across different environments.</sub><br />
+  <sub>Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a></sub>
+</div>
+<br />
+
+### Scikit-LLM
+<div align="center">
+  <a href="https://github.com/iryna-kondr/scikit-llm">
+    <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_white.svg">
+  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" height = "110">
+</picture>
+</a>
+</div>
+  <sub>A collection of scikit-learn compatible wrappers around large language models, allowing to treat them as regular sklearn estimators.</sub><br />
+  <sub>Project repository: <a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a></sub>
+</div>
