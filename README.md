@@ -43,7 +43,7 @@ Project repository: <a href="https://github.com/iryna-kondr/scikit-llm">scikit-l
 
 <div align="center">
 <a href="https://github.com/iryna-kondr/scikit-llm">
-  <img src="https://github.com/OKUA1/agent_dingo/blob/main/logo.png?raw=true" alt="AgentDingo" width="250" height = "250">
+  <img src="https://github.com/OKUA1/agent_dingo/blob/main/logo.png?raw=true" alt="AgentDingo" width="125" height = "125">
 </a>
 </div>
   A microframework for creating simple AI agents. <br />
