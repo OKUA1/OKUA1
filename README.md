@@ -27,7 +27,7 @@ Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a>
 ### Agent Dingo
 
 <div align="center">
-<a href="https://github.com/iryna-kondr/scikit-llm">
+<a href="https://github.com/OKUA1/agent_dingo">
   <img src="https://github.com/OKUA1/agent_dingo/blob/main/logo.png?raw=true" alt="AgentDingo" width="125" height = "125">
 </a>
 </div>
