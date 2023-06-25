@@ -32,7 +32,7 @@ Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a>
 </a>
 </div>
 
-  A microframework for creating simple AI agents. <br />
+  A microframework for creating simple conversational AI agents. <br />
 Project repository: <a href="https://github.com/OKUA1/agent_dingo">agent_dingo</a>
 </div>
 
