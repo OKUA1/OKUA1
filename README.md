@@ -32,6 +32,10 @@ Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a>
 </a>
 </div>
 
+  A microframework for creating simple AI agents. <br />
+Project repository: <a href="https://github.com/OKUA1/agent_dingo">agent_dingo</a>
+</div>
+
 ### Scikit-LLM
 
 <div align="center">
@@ -47,7 +51,3 @@ Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a>
 Project repository: <a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a>
 </div>
 
-
-  A microframework for creating simple AI agents. <br />
-Project repository: <a href="https://github.com/OKUA1/agent_dingo">agent_dingo</a>
-</div>
