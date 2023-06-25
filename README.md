@@ -24,6 +24,14 @@ Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a>
 </div>
 <br />
 
+### Agent Dingo
+
+<div align="center">
+<a href="https://github.com/iryna-kondr/scikit-llm">
+  <img src="https://github.com/OKUA1/agent_dingo/blob/main/logo.png?raw=true" alt="AgentDingo" width="125" height = "125">
+</a>
+</div>
+
 ### Scikit-LLM
 
 <div align="center">
@@ -39,13 +47,7 @@ Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a>
 Project repository: <a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a>
 </div>
 
-### Agent Dingo
 
-<div align="center">
-<a href="https://github.com/iryna-kondr/scikit-llm">
-  <img src="https://github.com/OKUA1/agent_dingo/blob/main/logo.png?raw=true" alt="AgentDingo" width="125" height = "125">
-</a>
-</div>
   A microframework for creating simple AI agents. <br />
 Project repository: <a href="https://github.com/OKUA1/agent_dingo">agent_dingo</a>
 </div>
