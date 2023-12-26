@@ -8,6 +8,21 @@ In my free time, I am developing open source projects that aim to simplify and e
 
 ## Highlighted Projects
 
+### Scikit-LLM
+
+<div align="center">
+  <a href="https://github.com/iryna-kondr/scikit-llm">
+    <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_white.svg">
+  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" height = "110">
+</picture>
+</a>
+</div>
+  A collection of scikit-learn compatible wrappers around large language models, allowing to treat them as regular sklearn estimators.<br />
+Project repository: <a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a>
+</div>
+
 ### Falcon ML
 
 <div align="center">
@@ -36,18 +51,5 @@ Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a>
 Project repository: <a href="https://github.com/OKUA1/agent_dingo">agent_dingo</a>
 </div>
 
-### Scikit-LLM
 
-<div align="center">
-  <a href="https://github.com/iryna-kondr/scikit-llm">
-    <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_white.svg">
-  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" height = "110">
-</picture>
-</a>
-</div>
-  A collection of scikit-learn compatible wrappers around large language models, allowing to treat them as regular sklearn estimators.<br />
-Project repository: <a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a>
-</div>
 
