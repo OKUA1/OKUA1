@@ -13,9 +13,7 @@ In my free time, I am developing open source projects that aim to simplify and e
 <div align="center">
   <a href="https://github.com/iryna-kondr/scikit-llm">
     <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_white.svg">
-  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" height = "110">
+  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/55e2fb9dd55673ec05281e0247de6202/raw/41063fcd620d9091662fc6473f9331a7651b4465/scikit-llm.svg" height = "175">
 </picture>
 </a>
 </div>
@@ -23,14 +21,25 @@ In my free time, I am developing open source projects that aim to simplify and e
 Project repository: <a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a>
 </div>
 
+### Agent Dingo
+
+<div align="center">
+<a href="https://github.com/OKUA1/agent_dingo">
+  <img src="https://gist.githubusercontent.com/OKUA1/55e2fb9dd55673ec05281e0247de6202/raw/41063fcd620d9091662fc6473f9331a7651b4465/dingo.svg" alt="AgentDingo"  height = "175">
+</a>
+</div>
+
+A lightweight microframework designed for streamlining the development of LLM pipelines and autonomous agents.<br />
+Project repository: <a href="https://github.com/OKUA1/agent_dingo">agent_dingo</a>
+</div>
+
+
 ### Falcon ML
 
 <div align="center">
   <a href="https://github.com/OKUA1/falcon">
     <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_black.svg" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_white.svg">
-  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_black.svg" height = "125">
+  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/55e2fb9dd55673ec05281e0247de6202/raw/41063fcd620d9091662fc6473f9331a7651b4465/falcon.svg" height = "175">
 </picture>
 </a>
 </div>
@@ -39,17 +48,6 @@ Project repository: <a href="https://github.com/OKUA1/falcon">falcon</a>
 </div>
 <br />
 
-### Agent Dingo
-
-<div align="center">
-<a href="https://github.com/OKUA1/agent_dingo">
-  <img src="https://github.com/OKUA1/agent_dingo/blob/main/logo.png?raw=true" alt="AgentDingo" width="125" height = "125">
-</a>
-</div>
-
-  A microframework for creating simple conversational AI agents. <br />
-Project repository: <a href="https://github.com/OKUA1/agent_dingo">agent_dingo</a>
-</div>
 
 
 
