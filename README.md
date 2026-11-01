@@ -4,21 +4,15 @@ I'm a Data Scientist building open-source tools for ML engineering.
 
 ## LUML
 
+My main project. [LUML](https://github.com/luml-ai/luml) is the agent-native MLOps platform: you and your coding agents build models together, agents run experiments on their own, every run is tracked, and the best models go to production on your own servers.
+
 <div align="center">
-<a href="https://github.com/luml-ai/luml">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/1d730de58b9c7ccc3010d4e118552c5d/raw/379005eb32b69b6281e2c0be70fd82e5ef7bd456/luml_logo_full_white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/1d730de58b9c7ccc3010d4e118552c5d/raw/379005eb32b69b6281e2c0be70fd82e5ef7bd456/luml_logo_full_black.svg">
-    <img alt="LUML" src="https://gist.githubusercontent.com/OKUA1/1d730de58b9c7ccc3010d4e118552c5d/raw/379005eb32b69b6281e2c0be70fd82e5ef7bd456/luml_logo_full_black.svg" width="200">
-  </picture>
-</a>
+
+<a href="https://luml.ai/flow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/readme/card-flow-dark.svg"><img alt="Flow: an interactive environment where you and your agents explore, build, and iterate on ML projects." src="https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/readme/card-flow-light.svg" width="270"></picture></a>
+<a href="https://luml.ai/prisma"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/readme/card-prisma-dark.svg"><img alt="Prisma: autonomous agents that run ML research on their own, from objective to deployable model." src="https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/readme/card-prisma-light.svg" width="270"></picture></a>
+<a href="https://luml.ai/core"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/readme/card-core-dark.svg"><img alt="Core: the foundational layer for your AI lifecycle: registry, deployments, and monitoring." src="https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/readme/card-core-light.svg" width="270"></picture></a>
+
 </div>
-
-My main project. [LUML](https://github.com/luml-ai/luml) is an agent-native MLOps platform: **Prisma** runs coding agents as unattended ML researchers, **Flow** tracks every experiment locally, and **Core** takes the best models to production with a registry, deployments, and monitoring.
-
-```bash
-pip install luml-prisma && luml-prisma
-```
 
 ## Other projects
 
