@@ -17,7 +17,7 @@ My main project. [LUML](https://github.com/luml-ai/luml) is the agent-native MLO
 ## Other projects
 
 - [**Scikit-LLM**](https://github.com/iryna-kondr/scikit-llm): scikit-learn compatible wrappers that let you use LLMs as regular sklearn estimators.
-- [**Agent Dingo**](https://github.com/OKUA1/agent_dingo): a lightweight microframework for LLM pipelines and agents.
+- [**FNNX**](https://github.com/fnnx-ai/FNNX): a flexible format to package and deploy any ML model.
 - [**Falcon**](https://github.com/OKUA1/falcon): AutoML that trains a full pipeline in one line and exports it to ONNX.
 
 If you find any of them useful, a star ⭐ helps others discover them.
